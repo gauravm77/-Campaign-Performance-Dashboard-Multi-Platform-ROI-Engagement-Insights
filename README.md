@@ -79,7 +79,7 @@ To deliver clear, data-backed answers to 10 real-world stakeholder questions rel
 ## 🔗 Connect With Me
 
 **Email:** gauravdm663@gmail.com  
-**LinkedIn:** [linkedin.com/in/your-link](https://www.linkedin.com/in/gauravmahajan7507/)  
+**[LinkedIn](https://www.linkedin.com/in/gauravmahajan7507/)** 
 
 ---
 
