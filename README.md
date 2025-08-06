@@ -1,8 +1,8 @@
 # 📊 Campaign Performance Dashboard – Multi-Platform ROI & Engagement Insights
 
-*Author:* Gaurav Mahajan  
-**Tools Used:** Google Sheets, Pivot Tables, Advanced Formulas  
-**Last Updated:** August 2025  
+Author: Gaurav Mahajan  
+Tools Used: Google Sheets, Pivot Tables, Advanced Formulas  
+Last Updated: August 2025  
 ---
 
 ## 🔗 Live Google Sheet
