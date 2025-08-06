@@ -7,8 +7,7 @@ Last Updated: August 2025
 
 ## 🔗 Live Google Sheet
 
-[📂 View the Dashboard]([https://docs.google.com/spreadsheets/d/YOUR-SHEET-ID-HERE](https://docs.google.com/spreadsheets/d/12VemMPb_LFpYyYvAgyv36QBpz9oHihmm/edit?usp=sharing&ouid=108733901459455478119&rtpof=true&sd=true))
-
+[📂 View the Dashboard]([https://docs.google.com/spreadsheets/d/12VemMPb_LFpYyYvAgyv36QBpz9oHihmm/edit?usp=sharing&ouid=108733901459455478119&rtpof=true&sd=true]
 ---
 
 ## 📌 Project Overview
