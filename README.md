@@ -3,6 +3,11 @@
 **Author:** Gaurav Mahajan  
 **Tools Used:** Google Sheets, Pivot Tables, Advanced Formulas  
 **Last Updated:** August 2025  
+---
+
+## 🔗 Live Google Sheet
+
+[📂 View the Dashboard]([https://docs.google.com/spreadsheets/d/YOUR-SHEET-ID-HERE](https://docs.google.com/spreadsheets/d/12VemMPb_LFpYyYvAgyv36QBpz9oHihmm/edit?usp=sharing&ouid=108733901459455478119&rtpof=true&sd=true))
 
 ---
 
@@ -69,7 +74,6 @@ To deliver clear, data-backed answers to 10 real-world stakeholder questions rel
 - Personal Project  
 - Domain: Marketing Analytics  
 - Format: Google Sheets Dashboard
-- <a herf="Dataset 
 
 ---
 
